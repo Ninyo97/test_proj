@@ -1,0 +1,4 @@
+# ignore the swp file
+# ignore all txt files
+*.txt
+.helloworld.java.swp
